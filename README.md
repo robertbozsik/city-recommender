@@ -33,4 +33,5 @@ Folium (displaying the cities on a map): https://python-visualization.github.io/
 scikit-learn (clustering the cities): https://scikit-learn.org/stable/ \
 Jupyter Notebook: https://jupyter.org/ \
 
-# Here comes a screenshot of an example
+# Example:
+![health care index example](/images/health_care_index_example.png)
