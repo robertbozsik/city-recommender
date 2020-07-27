@@ -1,4 +1,4 @@
-# City Clustering
+# City Recommender / City Clustering / Clustering the capital cities of Europe
 This project was submitted by Shelley Obery and Robert Bozsik as the final project during the Data Analytics Bootcamp of Ironhack Berlin.
 
 # Task:
