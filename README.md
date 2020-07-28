@@ -12,7 +12,7 @@ We created a city clustering or recommender system, that clusters the capital ci
  - ...
 
 # Project presentation:
-link
+https://docs.google.com/presentation/d/1WNTZ1GRcsgc9r4Hti8-8F0tT5bt_O0hJty1h0DEKn0o/edit?usp=sharing
 
 # Resources:
 Raw data:
@@ -31,7 +31,7 @@ Matplotlib: https://matplotlib.org/ \
 Seaborn: http://seaborn.pydata.org/ \
 Folium (displaying the cities on a map): https://python-visualization.github.io/folium/ \
 scikit-learn (clustering the cities): https://scikit-learn.org/stable/ \
-Jupyter Notebook: https://jupyter.org/ \
+Jupyter Notebook: https://jupyter.org/
 
 # Example:
 ![health care index example](/images/health_care_index_example.png)
