@@ -1,4 +1,6 @@
-# Cities Like Mine
+# Should I Stay or Should I Go
+*Helping you decide which city you should go to next.*
+
 This project was created by Shelley Obery and Robert Bozsik as the final project for the Ironhack Data Analytics Bootcamp. It is an ongoing project to develop a dataset of EU cities, which can be used in a comparison program that implements KMeans clustering.
 
 # Task:
@@ -8,14 +10,14 @@ The goal is to demonstrate the skills the students have built throughout the boo
 We created a city clustering system, that groups the capital cities of Europe into 4 clusters based on features chosen by the user. These are weather- and/or socio-economic features, such as number of sunny hours per season, the safety index of a city, among others.
 
 # Features:
-- weather
+### Weather
  - summer sun hours, summer high temperatures, summer precipitation days
  - spring sun hours, spring high temperatures, spring precipitation days
  - winter sun hours, winter high temperatures, winter precipitation days
  - autumn sun hours, autumn high temperatures, autumn precipitation days
  - climate
  
-- socio-economic
+### Socio-economic
  - cost_of_living
  - health_care
  - pollution
@@ -24,6 +26,15 @@ We created a city clustering system, that groups the capital cities of Europe in
  - safety
  - traffic_time
  - quality_of_life
+
+# Notebooks
+- 1_City_recommender_MVP.ipynb: this book contains the prototype of our function.
+- 2_EDA_initial_analysis.ipynb: here you can find analysis of the data and preparation for usage.
+- 3_Manual_additions.ipynb: contains manual additions to the capital city dataset, which could not be obtained through web-scraping.
+- 4_Scraping_climatedata.ipynb: code for scraping data from climatedata.eu.
+- 5_Scraping_numbeo.ipynb: code for scraping data from Numbeo.
+- 6_Merging_all_data.ipynb: combining all data.
+
 
 # Project presentation:
 https://docs.google.com/presentation/d/1WNTZ1GRcsgc9r4Hti8-8F0tT5bt_O0hJty1h0DEKn0o/edit?usp=sharing
