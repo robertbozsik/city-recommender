@@ -17,7 +17,7 @@ We created a city clustering system, that groups the capital cities of Europe in
  - autumn sun hours, autumn high temperatures, autumn precipitation days
  - climate
  
-### Socio-economic
+### Socio-economic Indices
  - cost_of_living
  - health_care
  - pollution
