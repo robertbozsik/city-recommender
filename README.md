@@ -26,6 +26,12 @@ We created a city clustering system, that groups the capital cities of Europe in
  - safety
  - traffic_time
  - quality_of_life
+ 
+# Folders
+- archived: contains notebooks that are no longer used for the finished product.
+- data: a collection of the data we are using.
+- new_features: notebooks containing functions/improvements that are still under construction.
+- notebooks: all notebooks used for the current city clustering tool.
 
 # Notebooks
 - 1_City_recommender_MVP.ipynb: this book contains the prototype of our function.
