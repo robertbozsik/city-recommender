@@ -64,5 +64,8 @@ Folium (displaying the cities on a map): https://python-visualization.github.io/
 scikit-learn (clustering the cities): https://scikit-learn.org/stable/ \
 Jupyter Notebook: https://jupyter.org/
 
-# Example:
-![health care index example](/images/health_care_index_example.png)
+# Example 1 (cluster of Berlin based on one feature):
+![summer sun hrs example](/images/summer_sun_hrs_example.png)
+
+# Example 2 (cluster of Berlin based on multiple features):
+![multiple features example](/images/multiple_features_example.png)
